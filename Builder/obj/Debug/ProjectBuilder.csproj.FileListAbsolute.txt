@@ -1,0 +1,6 @@
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\Builder\bin\Debug\Builder.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\Builder\bin\Debug\Builder.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\Builder\bin\Debug\Builder.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\Builder\obj\Debug\Builder.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\Builder\obj\Debug\Builder.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\Builder\obj\Debug\ProjectBuilder.csprojResolveAssemblyReference.cache

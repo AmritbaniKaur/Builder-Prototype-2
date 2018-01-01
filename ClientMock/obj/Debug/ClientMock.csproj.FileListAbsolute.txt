@@ -1,0 +1,8 @@
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\ClientMock\obj\Debug\ClientMock.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\ClientMock\bin\Debug\ClientMock.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\ClientMock\bin\Debug\ClientMock.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\ClientMock\bin\Debug\ClientMock.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\ClientMock\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\ClientMock\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\ClientMock\obj\Debug\ClientMock.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\ClientMock\obj\Debug\ClientMock.pdb

@@ -1,0 +1,6 @@
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\TestHarnessMock\bin\Debug\TestHarnessMock.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\TestHarnessMock\bin\Debug\TestHarnessMock.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\TestHarnessMock\bin\Debug\TestHarnessMock.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\TestHarnessMock\obj\Debug\TestHarnessMock.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\TestHarnessMock\obj\Debug\TestHarnessMock.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\TestHarnessMock\obj\Debug\TestHarnessMock.pdb
